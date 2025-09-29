@@ -16,4 +16,4 @@ A lightweight text summarizer built with **Hugging Face Transformers** and **Gra
 * Gradio
 * Hugging Face Spaces
 
-👉 Live Demo:  `https://huggingface.co/spaces/Chetankumawat/text_summizer`
+👉 Live Demo:  https://huggingface.co/spaces/Chetankumawat/text_summizer
